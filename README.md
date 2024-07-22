@@ -18,8 +18,8 @@ GesturePong is a hand-controlled ping pong game using Python, OpenCV, cvzone, an
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/gesturepong.git
-   cd gesturepong
+   git clone https://github.com/tassmiia/Gesture-Pong.git
+   
    ```
 
 2. **Install Dependencies**
